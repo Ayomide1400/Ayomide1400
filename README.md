@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Ayomide Ajibola 👋
 
-<!--
-**Ayomide1400/Ayomide1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analytics and research administration professional working at the intersection of **AI, fraud/anomaly detection, and financial systems**. Currently completing an MS in Data Analytics & Visualization at Morgan State University, with a background in audit (KPMG, MDOT) and research administration.
 
-Here are some ideas to get you started:
+🔬 **Research interest:** Equitable AI for financial oversight and accountability in public institutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Work
+
+- **[The GRA Framework](https://github.com/Ayomide1400/gra-framework)** — my original Gap–Risk–Accountability framework for AI-enabled research analytics, presented at the Research Analytics Summit (REACH) 2026. **[▶ Live interactive demo](https://ayomide1400.github.io/gra-framework/)**
+- **[Payment Data Pipeline (AWS)](https://github.com/Ayomide1400/payment-data-pipeline-aws)** — end-to-end AWS data engineering pipeline (S3, Glue, Lambda, Athena) for payment fraud and compliance analytics.
+- **[Credit Card Fraud Analysis](https://github.com/Ayomide1400/credit-card-fraud-analysis)** — R analysis of ~1.85M transactions profiling fraud patterns across merchants, geography, demographics, and time.
+
+### Focus Areas
+`Fraud & Anomaly Detection` · `Financial Analytics` · `Equitable AI` · `Research Analytics` · `Audit & Compliance`
+
+📫 [LinkedIn](https://www.linkedin.com/in/ayomide-ajibola) · Morgan State University
