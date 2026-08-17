@@ -2,7 +2,7 @@
 
 Data analytics and research administration professional working at the intersection of **AI, fraud/anomaly detection, and financial systems**. Currently completing an MS in Data Analytics & Visualization at Morgan State University, with a background in audit (KPMG, MDOT) and research administration.
 
-🔬 **Research interest:** Equitable AI for financial oversight and accountability in public institutions.
+🔬 **Research interest:** Equitable, explainable AI for financial oversight and accountability — bridging audit (KPMG, MDOT) and anomaly detection across public and private institutions.
 
 ### Featured Work
 
