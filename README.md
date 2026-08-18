@@ -1,6 +1,8 @@
 ## Hi, I'm Ayomide Ajibola 👋
 
-Data analytics and research administration professional working at the intersection of **AI, fraud/anomaly detection, and financial systems**. Currently completing an MS in Data Analytics & Visualization at Morgan State University, with a background in accounting, finance, and research administration.
+`BSc Accounting` · `Audit, KPMG` · `MBA Finance` · `MS Data Analytics & Visualization`
+
+Data analytics, finance, and research administration professional working at the intersection of audit, AI, and fraud/anomaly detection.
 
 🔬 **Research interest:** Equitable, explainable AI for financial oversight and accountability — bridging audit and anomaly detection across public and private institutions.
 
